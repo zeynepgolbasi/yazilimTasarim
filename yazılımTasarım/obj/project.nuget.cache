@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ILFnO30innKSCIDTtVblU6Epr6QS/Srb3QvAP0Q9+tzuvRY1BmfzJrrajT2kuy4qKVACe0cPb21YK7HdcLffSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeyne\\Desktop\\ytm\\yazılımTasarım\\yazılımTasarım\\yazılımTasarım.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeyne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zeyne\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zeyne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zeyne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\SRPandOCPornegi\bin\Debug\SRPandOCPornegi.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\SRPandOCPornegi\bin\Debug\SRPandOCPornegi.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\SRPandOCPornegi\obj\Debug\SRPandOCPornegi.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\SRPandOCPornegi\obj\Debug\SRPandOCPornegi.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\SRPandOCPornegi\obj\Debug\SRPandOCPornegi.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\SRPandOCPornegi\obj\Debug\SRPandOCPornegi.pdb
+C:\Users\zeyne\Desktop\ytm\yazılımTasarım\SRPandOCPornegi\bin\Debug\SRPandOCPornegi.exe
+C:\Users\zeyne\Desktop\ytm\yazılımTasarım\SRPandOCPornegi\bin\Debug\SRPandOCPornegi.pdb
+C:\Users\zeyne\Desktop\ytm\yazılımTasarım\SRPandOCPornegi\obj\Debug\SRPandOCPornegi.csproj.AssemblyReference.cache
+C:\Users\zeyne\Desktop\ytm\yazılımTasarım\SRPandOCPornegi\obj\Debug\SRPandOCPornegi.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\Desktop\ytm\yazılımTasarım\SRPandOCPornegi\obj\Debug\SRPandOCPornegi.exe
+C:\Users\zeyne\Desktop\ytm\yazılımTasarım\SRPandOCPornegi\obj\Debug\SRPandOCPornegi.pdb
